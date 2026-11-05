@@ -21,7 +21,7 @@ A local knowledge system to capture and organize ideas, AI-native by design.
 | -------- | -------------------- | ------------------------------------------------------------------------------------------------------- |
 | macOS    | Apple Silicon        | [Download DMG](https://github.com/anychar/anychar/releases/download/v0.1.2/Anychar-0.1.2-mac-arm64.dmg) |
 | macOS    | Intel                | [Download DMG](https://github.com/anychar/anychar/releases/download/v0.1.2/Anychar-0.1.2-mac-x64.dmg)   |
-| Windows  | 64-bit · Intel / AMD | Coming soon                                                                                             |
+| Windows  | 64-bit · Intel / AMD | [Install for Windows](https://get.microsoft.com/installer/download/9PDVTVSLBLTZ?referrer=appbadge)      |
 
 For guided downloads and chip selection help, visit [anychar.com/en/download](https://anychar.com/en/download). Older versions and release notes are available under [all releases](https://github.com/anychar/anychar/releases).
 
